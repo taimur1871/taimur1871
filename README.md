@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @taimur1871
-- 👀 I’m interested in implementing AI/ML to actual business problems
-- 🌱 I’m currently learning Svelte, Rust and Transformers
-- 💞️ I’m looking to collaborate on API development (especially FastAPI), AI applications
-- 📫 How to reach me rana@darkcirrusai.com
+- Hi, I’m @taimur1871
+- I’m interested in implementing AI/ML to actual business problems
+- I’m currently learning Svelte, Rust and Transformers
+- I’m looking to collaborate on API development (especially FastAPI), AI applications
+- How to reach me rana@darkcirrusai.com
 
 <!---
 taimur1871/taimur1871 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
